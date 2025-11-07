@@ -6,4 +6,4 @@ How to run this:
 - flutter pub get
 - flutter run
 - try register with random username, email, password
-- for login must use list user from here (https://dummyjson.com/users)
+- for login must use list users from here (https://dummyjson.com/users)
